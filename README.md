@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bensonbravol
-- 👀 I’m interested in Artificial intelligence, internet of things and machine learning 
-- 🌱 I’m currently learning artificial intelligence and internet of things 
-- 💞️ I’m looking to collaborate on with any platform that will enable me learn machine learning 
+- 
 - 📫 How to reach me: bensonbravol@gmail.com
 
 <!---
