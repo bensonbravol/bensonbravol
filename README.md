@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Benson Zakayo Michael (@bensonbravol)
+# 👋 Hi there, I’m Benson Michael (@bensonbravol)
 
 🎓 Final year BSc. Computer Information Systems student at Kenya Methodist University  
 👨‍💻 Passionate about software development, cybersecurity, and building smart tech solutions  
