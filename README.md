@@ -7,7 +7,7 @@
 
 ## 📫 How to reach me:
 - Email: [bensonbravol@gmail.com](mailto:bensonbravol@gmail.com)
-- LinkedIn: [benson-bravol](https://www.linkedin.com/in/benson-bravol-741873214)
+- LinkedIn: [benson-bravol](https://www.linkedin.com/in/benson-bravol)
 
 ## 🛠️ Tech Stack:
 - **Languages:** PHP, JavaScript, Python, SQL
