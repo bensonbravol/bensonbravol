@@ -18,7 +18,7 @@
 ## 📌 Featured Projects
 - 🚀 **Smart Farm** – IoT-based agricultural automation system (ASK Meru 2022)
 - 📲 **Mjishirikishe App** – Youth inclusion and accountability system (Code review & testing)
-- 🛒 **E-Commerce + M-Pesa API** – A Laravel-based shop with secure payment integration
+- 🛒 **E-Commerce + M-Pesa API** – *(in progress)* A Laravel-based shop with secure payment integration
 - 🔐 **Encrypted Bluetooth Messaging App** *(in progress)* – Offline anonymous peer-to-peer communication
 
 ## 📊 GitHub Stats
