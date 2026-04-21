@@ -1,7 +1,10 @@
 # 👋 Hey, I’m Benson Michael
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer+%7C+Laravel+Expert;API+Integrations+%7C+Automation;Cybersecurity+Enthusiast;Building+Real-World+Solutions" />
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Laravel+Backend+Engineer;Restful+API+Intergration;Building+Secure+and+Scalable+Systems" />
 </p>
 
 🚀 Final-year Computer Information Systems student  
@@ -66,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonbravol&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonbravol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&include_all_commits=true"/>
 </p>
 
 ---
