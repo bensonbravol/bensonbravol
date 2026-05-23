@@ -21,13 +21,13 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`PHP` | `JavaScript` | `Python` | `SQL`  
+`PHP` | `JavaScript` | `Python` | `SQL` | `JQuery` 
 
 **Frontend:**  
-`HTML5` | `CSS3` | `Tailwind CSS` | `Bootstrap` | `Alpine.js`  
+`HTML5` | `CSS3` | `Tailwind CSS` | `Bootstrap` | `Alpine.js` | `SCSS`  
 
 **Backend & Frameworks:**  
-`Laravel` | `Livewire` | `REST APIs` | `AJAX`  
+`Laravel` | `Livewire` | `REST APIs` | `AJAX` | `PHP` 
 
 **Database:**  
 `MySQL` | `PostgreSQL`  
