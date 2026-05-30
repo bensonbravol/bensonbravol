@@ -46,7 +46,7 @@
 ---
 
 ### 💰 E-Commerce + M-Pesa Integration
-- Developed a **Laravel-based scalable e-commerce platform**  
+- Developed a **PHP-based scalable e-commerce platform**  
 - Integrated **secure M-Pesa payment processing**  
 - Solved **real-world local payment challenges**  
 
