@@ -32,7 +32,7 @@
 **Database:**  
 `MySQL` | `PostgreSQL`  
 
-**Tools & Technologies:**  
+**Tools & Technologies:**   
 `Git` | `VS Code` | `Figma` | `Arduino`  
 
 ---
