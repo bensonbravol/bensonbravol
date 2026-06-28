@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Benson Michael
+# 👋 Hey, I’m Benson Michael (Benson Bravol)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Laravel+Backend+Engineer;Restful+API+Intergration;Building+Secure+and+Scalable+Systems" />
