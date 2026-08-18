@@ -1,20 +1,20 @@
-# 👋 Hey, I’m Benson Michael (Benson Bravol)
+# Hey, I’m Benson Michael (Benson Bravol)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Laravel+Backend+Engineer;Restful+API+Intergration;Building+Secure+and+Scalable+Systems" />
 </p>
 
-🚀 Final-year Computer Information Systems student  
-💻 Laravel & Backend Developer | API Integrations | Automation  
-🔐 Cybersecurity Enthusiast  
+Final-year Computer Information Systems student  
+Laravel & Backend Developer | API Integrations | Automation  
+Cybersecurity Enthusiast  
 
 ---
 
-## 🔥 What I Do
-- 🚀 Build **full-stack web applications** using Laravel & Livewire  
-- 💳 Integrate **secure payment systems (M-Pesa APIs)**  
-- 🤖 Develop **automation systems and IoT-based solutions**  
-- 🛡️ Design **secure, scalable system architectures**
+## What I Do
+- Build **full-stack web applications** using Laravel & Livewire  
+- Integrate **secure payment systems (M-Pesa APIs)**  
+- Develop **automation systems and IoT-based solutions**  
+- Design **secure, scalable system architectures**
 
 ---
 
@@ -37,28 +37,28 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌱 Smart Farm (IoT Automation)
+### Smart Farm (IoT Automation)
 - Built an **automated agriculture system** using sensors and microcontrollers  
 - Implemented **real-time monitoring** for improved efficiency  
 
 ---
 
-### 💰 E-Commerce + M-Pesa Integration
+### E-Commerce + M-Pesa Integration
 - Developed a **PHP-based scalable e-commerce platform**  
 - Integrated **secure M-Pesa payment processing**  
 - Solved **real-world local payment challenges**  
 
 ---
 
-### 🔐 Encrypted Bluetooth Messaging App
+### Encrypted Bluetooth Messaging App
 - Built a **peer-to-peer offline messaging system**  
 - Focused on **encryption, privacy, and secure communication**  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bensonbravol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -71,7 +71,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bensonbravol&theme=tokyo-night&hide_border=true"/>
@@ -79,7 +79,7 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy-tan-eta.vercel.app/?username=bensonbravol"/>
@@ -87,13 +87,13 @@
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
-📧 **Email:** bensonbravol@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/benson-bravol-741873214  
+**Email:** bensonbravol@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/benson-bravol-741873214  
 
 ---
 
 <p align="center">
-⭐ <i>Building secure, scalable systems that solve real-world problems.</i>
+  <i>Building secure, scalable systems that solve real-world problems.</i>
 </p>
