@@ -18,7 +18,7 @@ Cybersecurity Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 `PHP` | `JavaScript` | `Python` | `SQL` | `JQuery` 
